@@ -30,7 +30,7 @@ Stratifyd supplies a built-in Neural Sentiment model, an AutoLearn model that is
 
 When you deploy the AutoLearn model to a data stream that is similar to the training data stream, it generates results that you can then reincorporate into your AutoLearn model, adding more records to the training dataset and making it smarter and bigger and better over time.
 
-<img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+<img src="media/autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 ## Input fields
 
