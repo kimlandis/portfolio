@@ -15,7 +15,7 @@ You can incorporate feedback from multiple team members into the following types
 -	Support Vector Machine
 -	ZSL model
 
-<img src="feedback.png" width=400px alt="Diagram showing the feedback loop workflow.">
+<img src="media/feedback.png" width=500px alt="Diagram showing the feedback loop workflow.">
 
 Feedback takes the form of adding or removing labels, setting the sentiment value of specific words, and setting negation words that may be specific to your industry.
 
@@ -23,39 +23,39 @@ Feedback takes the form of adding or removing labels, setting the sentiment valu
 
 1.	Open a dashboard with a supervised model that you want to train and click the **Data** tab.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/data.png" width=500px alt="Screenshot showing the Data tab.">
 
 2.	Click the tab for the model that you want to train, and in the \*.labels column (where \* is the name and type of the model), you can see the **Show Model** button, indicating that there is no unsubmitted feedback.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/show-model.png" width=800px alt="Screenshot showing the Show Model button.">
 
 3.	Mouse over any record for which you want to add a label, and click the **Add Label** button that appears. 
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/add-label.png" width=800px alt="Screenshot showing the Add Label button on a record.">
 
     For other types of data, you may encounter a pencil icon instead of the **Add Label** button.
  
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/pencil.png" width=300px alt="Screenshot of the Random Forest Model label showing a pencil icon.">
 
     This opens a dialog where you can modify the label.
  
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/modify-label.png" width=400px alt="Screenshot of the Modify your label result dialog.">
 
 4.	In the **Pick a path** dialog that appears, click to select the label that you want to add, or if you have many labels, use the **Search** box to find it.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/pick-path.png" width=400px alt="Screenshot of the Pick a path dialog.">
 
 5.	Your new label is marked with an orange asterisk, and a **Submit Feedback** button appears in the column header.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/submit-feedback.png" width=800px alt="Scereenshot showing the new label and the Submit Feedback button.">
 
 6.	To remove a label, click the minus sign to its right.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/remove.png" width=800px alt="Screenshot showing the remove label icon.">
 
 7.	A removed label is marked with strike-through text, and the minus sign becomes an undo icon.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
+    <img src="media/removed.png" width=800px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 ## Unsaved feedback
 
@@ -67,19 +67,11 @@ If you are called away in the middle of providing feedback before you submit it,
 
 1.	In the \*.labels column header, click the **Submit Feedback** button.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
 2.	In the **Add new feedback** dialog, any existing feedback lists appear, and you can select one to which to add your feedback or create a new one. Click **Add to a new list**.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 3.	In the dialog that appears, provide a name for the new feedback list and click **OK**.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
     A message box informs you that it was added.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 ## How are conflicts handled?
 
@@ -120,19 +112,11 @@ Since a number of people may be providing feedback on a single model, Stratifyd 
 
 2.	On the Home page, click the **Advanced** tab and select **Feedback Lists**.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
 3.	Here you can see any feedback lists for all models that you own. Click the feedback list tile that you want to review.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 4.	In the **Edit Custom Feedback List** dialog that appears, in the **Remove from list** column to the far right, click **Remove** for any feedback that you want to remove from the list.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
 5.	When you have finished reviewing the feedback, click **Save**. Repeat for any additional feedback lists.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 ## To retrain the model
 
@@ -142,28 +126,14 @@ Because the model is locked during retraining, it is best to do this at night or
 
 1.	From the Home page, select the **Models** tab, and click the tile of the model to retrain.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
     The Model Info dialog appears.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
 2.	Scroll down to the **Utilized Resources** section to see all feedback lists, stopwords lists, and other resources associated with the model. Any resources marked "Newly Added" have not yet been incorporated into the model training.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
 3.	To immediately retrain the model, click **Retrain**.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
 
     To set a schedule for retraining, at the top of the dialog click **Schedule Retrain**. See **Schedule retraining** for details.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
 4.	In the top right corner of the page, message boxes show you the progress.
 
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
-
 5.	Once complete, the dialog replaces the "Newly Added" message with the model version number in which the resource was incorporated.
-
-    <img src="autolearn.png" width=400px alt="Diagram showing the workflow to create an AutoLearn model.">
