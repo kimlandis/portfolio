@@ -11,6 +11,6 @@ At Stratifyd, I created documentation for an AI analytics platform. I created al
 
 This is sample content that I created in Confluence. Since it was behind a paywall, I re-configured the content in GitHub markdown, and omitted all of the links to other documents.
 
-- [Sample reference-type article from Stratifyd documentation](stratifyd-auto-learn.md) I used this format as a template for each type of AI model algorithm, and used reference materials to learn about each type. I used Visio to create the diagram.
-- [Sample procedural-type article from Stratifyd documentation](stratifyd-model-feedback-loop.md) This article contains a number of step-by-step procedures that I verified prior to publishing, and provided screenshots to orient the user. I used SnagIt to create the screenshots.
+- [Sample reference-type article from Stratifyd documentation](stratifyd-auto-learn.md) I used this format as a template for each type of AI model algorithm, and used reference materials in scientific publications to learn about each type. I used Visio to create the diagram.
+- [Sample procedural-type article from Stratifyd documentation](stratifyd-model-feedback-loop.md) This article contains a number of step-by-step procedures that I verified prior to publishing, and provided screenshots to orient the user. I used SnagIt to create the screenshots. (I only included the screenshots in the first of the procedures, but there are screenshots for nearly every step of each procedure.)
 - 
