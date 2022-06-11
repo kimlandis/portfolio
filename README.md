@@ -7,6 +7,8 @@ As a vendor at Microsoft, I have provided initial scaffolding of content as well
 - [My GitHub account at Microsoft](https://github.com/kimlandisoohio/). Here you can see all of my commits in the Learn BizApps and Learn Dynamics repositories during my time as a contractor at Microsoft.
 - [A sample of published Learn content](https://docs.microsoft.com/en-us/learn/modules/retail-intelligent-order-management/). This is an example of my scaffolding work for Microsoft. I use a .bat file to roughly convert Word content to markdown, and another .bat file to create the framework of folders, .yml, and .md files, and then follow Microsoft rules to ensure that the content shows up correctly and run Acrolinx to fix any wording issues.
 
+![Stratifyd logo](media/stratifyd.png)
+
 At Stratifyd, I created documentation for an AI analytics platform. I created all of the documentation for the product from conception through publishing on Confluence with an existing basic guide for reference. I had no knowledge of AI or machine learning before writing this documentation, and relied heavily upon my skills in research, interviewing SMEs, and understanding very rough communication from an international team of data scientists. Ultimately, I learned to research and write what I thought was correct, and then ask the SMEs to review and correct my drafts.
 
 This is sample content that I created in Confluence. Since it was behind a paywall, I re-configured the content in GitHub markdown, and omitted all of the links to other documents.
@@ -14,11 +16,15 @@ This is sample content that I created in Confluence. Since it was behind a paywa
 - [Sample reference-type article from Stratifyd documentation](stratifyd-auto-learn.md) I used this format as a template for each type of AI model algorithm, and used reference materials in scientific publications to learn about each type. I used Visio to create the diagram.
 - [Sample procedural-type article from Stratifyd documentation](stratifyd-model-feedback-loop.md) This article contains a number of step-by-step procedures that I verified prior to publishing, and provided screenshots to orient the user. I used SnagIt to create the screenshots. (I omitted the screenshots after the first procedure.)
 
+![EmpowerID logo](media/empowerid.png)
+
 At EmpowerID, I helped the existing tech writer move all of the content from a proprietary system to Confluence, and authored new content as required.
 
 - [Performing Revokes Quality Checks](https://dotnetworkflow.jira.com/wiki/spaces/E2D/pages/113672306/Performing+Revokes+Quality+Checks) This is an example of documentation for an end user audience.
 - [Privileged Application Launcher](https://dotnetworkflow.jira.com/wiki/spaces/E2D/pages/148144196/Privileged+Application+Launcher) This is an example of documentation for an administrative audience.
 - [Responsible Parties](https://dotnetworkflow.jira.com/wiki/spaces/E2D/pages/147161147/Responsible+Parties) This is another example of documentation for an administrative audience.
+
+![GrapeCity logo](media/grapecity.png)
 
 At Data Dynamics (later purchased by GrapeCity), I started in tech support, helping developers to create custom .NET reports using ActiveReports. They noticed that I wrote at least five times as many Knowledge Base articles as we were required to write, so I was moved to the role of technical writer. I started with the first version of ActiveReports for .NET, and completely revamped the bare-bones content that was originally released to address the points of pain that I had learned of from speaking directly with our users. I knew that they wanted self-service access to the information, so my writing was always about eliminating their need to call tech support. Later, after GrapeCity also acquired ComponentOne in Pittsburgh, I got to take over one of their products.
 
