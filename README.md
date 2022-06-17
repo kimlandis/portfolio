@@ -1,6 +1,6 @@
 # Technical writing portfolio for Kim Landis
 
-I have over 15 years of experience in software documentation for developers, professionals, and end users. Here are some examples of my work.
+I have over 15 years of experience in software documentation for developers, professionals, and end users. Here is [my resume](/media/Kim%20Landis--technical%20writer.pdf). And here are some examples of my work.
 
 As a vendor at Microsoft, I have provided initial scaffolding of content as well as updates and bug fixes in [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=learnaka) for a total of over 2,800 contributions in two years.
 
@@ -34,3 +34,7 @@ At Data Dynamics (later purchased by GrapeCity), I started in tech support, help
 - [Create Top N Reports](http://help.grapecity.com/activereports/webhelp/Legacy/ActiveReports6/webframe.html#topic62.html) This is another example of documentation for a developer audience.
 - [Wijmo UI for the Web - Wijmo User Guide](https://help.grapecity.com/wijmo/3/webframe.html#WijmoUserGuide.html) This project was the first time I had used jQuery. I documented it from start to finish, as the existing documentation for it was extremely sparse. I loved that it allowed me to provide live widgets right in the help file, but I see now that the files they reference have been moved at some point over the years. 
 - [Wijmo Docs](https://www.grapecity.com/wijmo/docs/GettingStarted/Introduction) I documented the first release of the new JavaScript and HTML5 version of Wijmo using the CTO's proprietary tool. It's been updated by others in the intervening years.
+
+Here's me in June, 2022. Click at your own risk. You may fall into the wrinkles thus revealed!
+
+<img src="media/2022.jpg" alt="selfie" width=200/>
