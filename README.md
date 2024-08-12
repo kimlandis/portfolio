@@ -2,7 +2,7 @@
 
 I have over 15 years of experience in software documentation for developers, professionals, and end users. Here is [my resume](/media/Kim%20Landis--technical%20writer.pdf). And here are some examples of my work.
 
-As a vendor at Microsoft, I have provided initial scaffolding of content as well as updates and bug fixes in [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=learnaka) for a total of over 2,800 contributions in two years.
+As a vendor at Microsoft, I have provided initial scaffolding of content as well as updates and bug fixes in [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=learnaka) for a total of over 5,700 contributions in four years.
 
 - [My GitHub account at Microsoft](https://github.com/kimlandisoohio/). Here you can see all of my commits in the Learn BizApps and Learn Dynamics repositories during my time as a contractor at Microsoft.
 - [A sample of published Learn content](https://docs.microsoft.com/en-us/learn/modules/retail-intelligent-order-management/). This is an example of my scaffolding work for Microsoft. I use a .bat file to roughly convert Word content to markdown, and another .bat file to create the framework of folders, .yml, and .md files, and then follow Microsoft rules to ensure that the content shows up correctly and run Acrolinx to fix any wording issues.
