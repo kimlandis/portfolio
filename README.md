@@ -35,6 +35,6 @@ At Data Dynamics (later purchased by GrapeCity), I started in tech support, help
 - [Wijmo UI for the Web - Wijmo User Guide](https://help.grapecity.com/wijmo/3/webframe.html#WijmoUserGuide.html) This project was the first time I had used jQuery. I documented it from start to finish, as the existing documentation for it was extremely sparse. I loved that it allowed me to provide live widgets right in the help file, but I see now that the files they reference have been moved at some point over the years. 
 - [Wijmo Docs](https://www.grapecity.com/wijmo/docs/GettingStarted/Introduction) I documented the first release of the new JavaScript and HTML5 version of Wijmo using the CTO's proprietary tool. It's been updated by others in the intervening years.
 
-Here's me in June, 2022. Click at your own risk. You may fall into the wrinkles thus revealed!
+Here's me in September, 2024.
 
-<img src="media/2022.jpg" alt="selfie" width=200/>
+<img src="media/kim-sept-2024.jpg" alt="selfie" width=200/>
