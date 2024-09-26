@@ -1,15 +1,15 @@
 # Technical writing portfolio for Kim Landis
 
-I have over 15 years of experience in software documentation for developers, professionals, and end users. Here is [my resume](/media/Kim%20Landis--technical%20writer.pdf). And here are some examples of my work.
+I have more than 15 years of experience in software documentation for developers, professionals, and end users. Here is [my resume](/media/Kim%20Landis--technical%20writer.pdf). Below I have provided examples of my work.
 
-As a vendor at Microsoft, I have provided initial scaffolding of content as well as updates and bug fixes in [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=learnaka) for a total of over 5,700 contributions in four years.
+As a vendor at Microsoft, I have provided initial scaffolding of content as well as updates and bug fixes in [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=learnaka) for a total of more than 5,700 contributions in four years.
 
 - [My GitHub account at Microsoft](https://github.com/kimlandisoohio/). Here you can see all of my commits in the Learn BizApps and Learn Dynamics repositories during my time as a contractor at Microsoft.
 - [A sample of published Learn content](https://learn.microsoft.com/en-us/training/modules/forecast-using-demand-planning/). This is an example of my scaffolding work for Microsoft. I use a .bat file to roughly convert Word content to markdown, and another .bat file to create the framework of folders, .yml, and .md files, and then follow Microsoft rules to ensure that the content shows up correctly and run Acrolinx to fix any wording issues.
 
 ![Stratifyd logo](media/stratifyd.png)
 
-At Stratifyd, I created documentation for an AI analytics platform. I created all of the documentation for the product from conception through publishing on Confluence with an existing basic guide for reference. I had no knowledge of AI or machine learning before writing this documentation, and relied heavily upon my skills in research, interviewing SMEs, and understanding very rough communication from an international team of data scientists. Ultimately, I learned to research and write what I thought was correct, and then ask the SMEs to review and correct my drafts.
+At Stratifyd, I created documentation for an AI analytics platform. I created documentation for the product from conception through publishing on Confluence with an existing basic guide for reference. 
 
 This is sample content that I created in Confluence. Since it was behind a paywall, I re-configured the content in GitHub markdown, and omitted all of the links to other documents.
 
