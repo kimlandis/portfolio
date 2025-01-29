@@ -1,6 +1,6 @@
 # Technical writing portfolio for Kim Landis
 
-I have more than 15 years of experience in software documentation for developers, professionals, and end users. Here is [my resume](/media/Kim%20%Landis--technical writer.docx). Below I have provided examples of my work.
+I have more than 15 years of experience in software documentation for developers, professionals, and end users. Here is [my resume](/media/Kim%20Landis--technical%20writer.docx). Below I have provided examples of my work.
 
 As a vendor at Microsoft, I have provided initial scaffolding of content as well as updates and bug fixes in [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=learnaka) for a total of more than 5,700 contributions in four years.
 
